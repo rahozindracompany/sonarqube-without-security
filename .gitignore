@@ -1,0 +1,4 @@
+sonar/data/**
+sonar/extensions/**
+sonar/logs/**
+postgresql/**
