@@ -26,8 +26,8 @@ docker-compose --version
 Ejecute SonarQube con Docker Compose. Docker Compose utiliza el archivo `docker-compose.yml` que describe el entorno.
 
 ```bash
-git clone https://github.com/rahozindracompany/sonarqube-devops.git
-cd sonarqube
+git clone https://github.com/rahozindracompany/sonarqube-without-security.git
+cd sonarqube-without-security
 docker-compose up
 ```
 
